@@ -1,0 +1,113 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "name": "Bugatti",
+      "category": "Fuel",
+      "price": 100000000,
+      "stock": 150,
+      "rating": 1,
+      "image":"https://news.dupontregistry.com/wp-content/uploads/2020/12/03_chiron_dynamic_34-front_print-1140x570.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Tesla",
+      "category": "Electronic",
+      "price": 100000,
+      "stock": 75,
+      "rating": 2,
+      "description": "Latest model smartphone with advanced features, high-resolution camera, and large storage capacity.",
+      "image":"https://cdn.whichcar.com.au/assets/p_16x9/ed8b160e/tesla-model-3-range-review-australia.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Build Your Dream",
+      "category": "Electronic",
+      "price": 50000,
+      "stock": 200,
+      "rating": 3,
+      "image":"https://www.byd.com/content/dam/byd-site/eu/product/atto3/atto3_v2/Section01_PC.jpg"
+    },
+    {
+      "id": 4,
+      "name": "BMW M5 competition",
+      "category": "Fuel",
+      "price": 150000,
+      "stock": 120,
+      "rating": 3,
+      "image":"https://www.topgear.com/sites/default/files/images/cars-road-test/2021/05/78582c5421f3395c8b0365d1e12cb015/dsc06755.jpg"
+    },
+    {
+      "id": 5,
+      "name": "Mercedes gls 600",
+      "category": "Fuel",
+      "price": 300000,
+      "stock": 80,
+      "rating": 4,
+      "image":"https://starrluxurycars.com/wp-content/uploads/2021/10/2021_mercedes-maybach_gls-1024x768.jpg"
+    },
+    {
+      "id": 6,
+      "name": "WolsWagen",
+      "category": "Fuel",
+      "price": 50000,
+      "stock": 300,
+      "rating": 4,
+      "image":"https://cars.usnews.com/static/images/Auto/custom/15519/2024_Volkswagen_Atlas_Angular_Front_1.jpg"
+    },
+    {
+      "id": 7,
+      "name": "Audi",
+      "category": "Fuel",
+      "price": 125000000,
+      "stock": 90,
+      "rating": 1,
+      "image":"https://www.topgear.com/sites/default/files/2021/10/_TSP3460.jpg"
+    },
+    {
+      "id": 8,
+      "name": "Supra mk4",
+      "category": "Fuel",
+      "price": 9000000,
+      "stock": 110,
+      "rating": 5,
+      "image":"https://scene7.toyota.eu/is/image/toyotaeurope/toyota-supra-2020-visual-01-overview-6?wid=1280&fit=fit,1&ts=1651137516929&resMode=sharp2&op_usm=1.75,0.3,2,0"
+    },
+    {
+      "id": 9,
+      "name": "Zeekr 001",
+      "category": "Electronic",
+      "price": 70000,
+      "stock": 250,
+      "rating": 3,
+      "image":"https://image.made-in-china.com/202f0j00lETqtaVnmogf/Zeekr-001-Fully-Enclosed-High-Speed-Electric-Car-with-Long-Range-4WD.webp"
+    },
+    {
+      "id": 10,
+      "name": "Pagani",
+      "category": "Fuel",
+      "price": 1000000,
+      "stock": 130,
+      "rating": 4,
+      "image":"https://www.autoindustriya.com/cdn-cgi/image/width=720,quality=60,format=auto/images/posts/post12566.jpg"
+    },
+    {
+      "id": 11,
+      "name": "Aston Martin",
+      "category": "Fuel",
+      "price": 4000000,
+      "stock": 130,
+      "rating": 4,
+      "image":"https://ritholtz.com/wp-content/uploads/2024/02/1.webp"
+    },
+     {
+      "id": 12,
+      "name": "Ferrari",
+      "category": "Fuel",
+      "price": 5000000,
+      "stock": 130,
+      "rating": 4,
+      "image":"https://api.time.com/wp-content/uploads/2015/02/10-2015-488-gtb.jpg"
+    }
+  ]
+}
